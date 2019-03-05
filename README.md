@@ -37,10 +37,26 @@ Science needs to be open and verifiable. As more and more tools are available to
 **xi) Open Science and Open Data Hackathon with UNESCO**
 In the [FOSSASIA Hackathon](https://fossasia-hackathon.devpost.com/) developers, designers, tech contributors, bloggers, and journalists join in to develop Open Data apps and games for sustainable development and indigenous languages using FOSSASIA technologies.
 
+### Featured Speakers
+- Bunnie Huang, Chibitronics PTE LTD
+- Mitch Altman, Open Hardware Creator
+- Carsten Haitzler, ARM
+- Rahul Akolkar, Worldwide Technical Sales Leader, Data Science and AI at IBM
+- Duane O'Brien, Head of Open Source at Indeed.com
+- Lim Tit Meng, CEO Science Centre, Vice Dean NUS
+- Sindhu Chengad, Head OSS Lead at Microsoft
+- Michael Christen, SUSI.AI
+- Dr Graham Williams, Data Science Director at Microsoft
+- Sachin Shridhar, Vice President, Customer Success Pivotal Software
+- Jollen Chen, Creator Flowchain
+- Manyi Lu, Senior Director Alibaba Cloud
+- Mete Atamel, Developer Advocate at Google
+- Stephen Frost, Crunchy Data Solutions
+- Michael Ducy, Director of Community & Evangelism for Sysdig
+- Matthew Treinish, IBM Research
 
 
-
-
+ 
 
 
 
